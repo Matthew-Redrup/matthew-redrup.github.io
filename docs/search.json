@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Matthew Redrup",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a software developer.\n \n  \n   \n  \n    \n     GitHub"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "View my projects on GitHub at https://github.com/Matthew-Redrup."
+  },
+  {
+    "objectID": "projects.html#plato-platform",
+    "href": "projects.html#plato-platform",
+    "title": "Projects",
+    "section": "",
+    "text": "The Plato Platform is a proof of concept, learner centered, open education platform. It is designed to be a tool for both learners and education facilitators. Funtionally it’s aim is to create educational content specific to each individual learner, measure their progress, provide feedback and finally certify their knowledge."
+  },
+  {
+    "objectID": "projects.html#repository",
+    "href": "projects.html#repository",
+    "title": "Projects",
+    "section": "",
+    "text": "View my projects on GitHub at https://github.com/Matthew-Redrup."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "Projects",
+    "text": "Projects\n\nPlato Platform: The Plato Platform is a proof of concept, learner centered, open education platform. It is designed to be a tool for both learners and education facilitators. Funtionally it’s aim is to create educational content specific to each individual learner, measure their progress, provide feedback and finally certify their knowledge."
+  },
+  {
+    "objectID": "projects.html#in-development",
+    "href": "projects.html#in-development",
+    "title": "Projects",
+    "section": "In Development",
+    "text": "In Development\n\nPlato Platform: The Plato Platform is a proof of concept, learner centered, open education platform. It is designed to be a tool for both learners and education facilitators. Funtionally it’s aim is to create educational content specific to each individual learner, measure their progress, provide feedback and finally certify their knowledge."
   }
 ]

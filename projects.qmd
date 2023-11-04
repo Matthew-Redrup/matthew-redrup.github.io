@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## Repository
+
+View my projects on GitHub at [https://github.com/Matthew-Redrup](https://github.com/Matthew-Redrup).
+
+## In Development
+
+- [**Plato Platform**](https://github.com/Matthew-Redrup/plato-platform): The Plato Platform is a proof of concept, learner centered, open education platform. It is designed to be a tool for both learners and education facilitators. Funtionally it's aim is to create educational content specific to each individual learner, measure their progress, provide feedback and finally certify their knowledge.
