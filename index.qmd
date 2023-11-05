@@ -1,8 +1,11 @@
 ---
 title: "Matthew Redrup"
+image: profile.jpg
 about: 
   id: mredrup-heading
   template: jolla
+  image-shape: round
+  image-width: 15em
   links:
     - text: GitHub
       icon: github
